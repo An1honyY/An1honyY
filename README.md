@@ -6,6 +6,7 @@ I'm a full-stack Dev from New Zealand
 - 📫 Reach me at **ant.jo.yuen@gmail.com**
 - 🙋‍♂️ Or connect with me on LinkedIn **https://linkedin.com/in/anthonyyuen-dev** 
 - ⚡ Check out my Website: **https://anthonyyuen.pages.dev**  
+<br><br>
 
 ---
 
@@ -23,14 +24,17 @@ I'm a full-stack Dev from New Zealand
 
 ⚙️ Tools & Platforms  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
 ---
+
+
+
+<br><br>
 <img alt="github-snake" src="https://raw.githubusercontent.com/An1honyY/An1honyY/output/github-contribution-grid-snake.svg" width="50%" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=an1honyy&show_icons=true&locale=en&layout=compact)
 
----
 
-<!-- This Readme Uses-->
+<!-- This Readme makes use of some really cool GitHub Repositories:-->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- (https://git.io/streak-stats)-->
+<!-- https://github.com/Platane/snk-->
