@@ -24,21 +24,21 @@ I'm a full-stack Dev from New Zealand
 
 ---
 
-📬 Contact Me  
-<a href="https://linkedin.com/in/anthonyyuen-dev" target="blank">  
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonyyuen-dev" height="30" width="40" />  
-</a>
-
----
-
 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=an1honyy&theme=transparent) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=an1honyy&show_icons=true&locale=en&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=an1honyy&show_icons=true&locale=en&layout=compact&theme=transparent) 
+<a href="https://github.com/an1honyy/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=an1honyy" />
+</a>
+<a href="https://github.com/an1honyy/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an1honyy&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An1honyY/An1honyY/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/An1honyY/An1honyY/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/An1honyY/An1honyY/output/github-contribution-grid-snake.svg" width="50%" />
 </picture>
-<!-- ![Snake animation](https://github.com/An1honyY/An1honyY/blob/output/github-contribution-grid-snake.svg) -->
+<!-- [!Snake animation](https://github.com/An1honyY/An1honyY/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- This Readme Uses-->
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- (https://git.io/streak-stats)-->
