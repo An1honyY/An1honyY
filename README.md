@@ -1,5 +1,4 @@
-# 👋 <br>
-Hi, I'm Anthony!<br> 
+Hi, I'm Anthony! 👋<br>
 A full-stack Dev from New Zealand
 
 - 🌱 I’m currently undertaking my **Master's in InfoTech at the University of Auckland**  
