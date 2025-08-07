@@ -1,6 +1,6 @@
-👋 Hi, I'm Anthony!
-
-I'm a full-stack Dev from New Zealand
+# 👋 <br>
+Hi, I'm Anthony!<br> 
+A full-stack Dev from New Zealand
 
 - 🌱 I’m currently undertaking my **Master's in InfoTech at the University of Auckland**  
 - 📫 Reach me at **ant.jo.yuen@gmail.com**
