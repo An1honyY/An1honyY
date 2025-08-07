@@ -1,9 +1,10 @@
 👋 Hi, I'm Anthony!
 
-I'm a fullstack Dev from New Zealand  
+I'm a full-stack Dev from New Zealand
 
-- 🌱 I’m currently taking my **Master's in InfoTech at the University of Auckland**  
-- 📫 Reach me at **ant.jo.yuen@gmail.com**  
+- 🌱 I’m currently undertaking my **Master's in InfoTech at the University of Auckland**  
+- 📫 Reach me at **ant.jo.yuen@gmail.com**
+- 🙋‍♂️ Or connect with me on LinkedIn **https://linkedin.com/in/anthonyyuen-dev** 
 - ⚡ Check out my Website: **https://anthonyyuen.pages.dev**  
 
 ---
