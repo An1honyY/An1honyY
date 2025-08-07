@@ -24,18 +24,9 @@ I'm a full-stack Dev from New Zealand
 
 ---
 
-📊 GitHub Stats  
 
-<a href="https://github.com/an1honyy/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=an1honyy" />
-</a>
-<a href="https://github.com/an1honyy/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an1honyy&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=an1honyy&show_icons=true&locale=en&layout=compact) <img alt="github-snake" src="https://raw.githubusercontent.com/An1honyY/An1honyY/output/github-contribution-grid-snake.svg" width="50%" />
 
-<picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/An1honyY/An1honyY/output/github-contribution-grid-snake.svg" width="50%" />
-</picture>
 <!-- [!Snake animation](https://github.com/An1honyY/An1honyY/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- This Readme Uses-->
