@@ -33,8 +33,8 @@ I'm a full-stack Dev from New Zealand
 
 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=an1honyy) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=an1honyy&show_icons=true&locale=en)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=an1honyy&show_icons=true&locale=en&layout=compact) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=an1honyy&theme=transparent) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=an1honyy&show_icons=true&locale=en&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=an1honyy&show_icons=true&locale=en&layout=compact&theme=transparent) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An1honyY/An1honyY/output/github-contribution-grid-snake-dark.svg" />
